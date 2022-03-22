@@ -1,0 +1,3 @@
+DB_TL=postgres://admin:123@localhost:5432/contacts
+PORT=5000
+SECRET=sdhgdhjsdjkfhjbcvncbnmmnvmnbdhbh 
